@@ -1,7 +1,11 @@
 Editing subtitles (עריכת כתוביות)
 כולל השפה העברית 
 
-הורידו את התוכנה מכאן ולאחר התקנתה החליפו את הממשק לשפה העברית
+הורידו את התוכנה מכאן
+
+https://github.com/hackingandtesting/-Subtitle-Edit-in-Hebrew/releases/tag/Subtitle-Edit-%D7%91%D7%A2%D7%91%D7%A8%D7%99%D7%AA
+
+ולאחר התקנתה החליפו את הממשק לשפה העברית
 
 כך תשנו את השפה בתפריט למעלה כנסו ל - "Options"
 
